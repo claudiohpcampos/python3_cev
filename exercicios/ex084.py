@@ -1,6 +1,3 @@
-from tokenize import PseudoExtras
-
-
 lista = []
 dados = []
 cont = maior = menor = 0
